@@ -10,3 +10,10 @@ Included in the repo is the file markdown_cheatsheet.md copied from https://gith
 ## Thins for a junior dev
 ### Or any devs really
 https://twitter.com/ClayDowling/status/1375891016453136384
+
+## Blogs
+https://medium.com/@marinithiago/
+
+## Architecture
+### Microservices vs Monoliths
+https://medium.com/@marinithiago/monolith-microservices-and-architectural-quanta-c1327428d652
