@@ -11,9 +11,25 @@ Included in the repo is the file markdown_cheatsheet.md copied from https://gith
 ### Or any devs really
 https://twitter.com/ClayDowling/status/1375891016453136384
 
-## Blogs
+## Blogs & Books
 https://medium.com/@marinithiago/
+
+### Clean Code and Uncle Bob
+Uncle Bob (or Robert C. Martin) is a legend within programming and as much of a must to read that there is. Even if you do not agree with him you should read his books to know what other people are talking about.
+#### Books:
+##### Clean Code 
+(ISBN-13: 978-0132350884) This is his most iconic book. The book explain what makes good code that doesn't smell. The book is in some ways contradictory to what other things you might have learned.
+##### The Clean Coder
+(ISBN 978-0132542883) What makes a good, professional coder? This books aims to give the reader some answers to those questions.
+##### Clean Architecture
+(ISBN 9780134494166) The follow up to Clean Code where the reader learns to take a more birds eye view and create architecture insted of just code.
+#### Blog
+https://blog.cleancoder.com/
 
 ## Architecture
 ### Microservices vs Monoliths
 https://medium.com/@marinithiago/monolith-microservices-and-architectural-quanta-c1327428d652
+
+## Testing
+### Charactirization tests vs Unit Tests
+https://blog.cleancoder.com/
