@@ -33,3 +33,9 @@ https://medium.com/@marinithiago/monolith-microservices-and-architectural-quanta
 ## Testing
 ### Charactirization tests vs Unit Tests
 https://blog.cleancoder.com/
+
+## Git
+### Oh shit moments
+If you ever have problems with git. Maybe something you did or you don't understand what's happening. The following links are really good
+https://ohshitgit.com/
+https://firstaidgit.io/
