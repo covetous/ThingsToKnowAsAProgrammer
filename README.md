@@ -41,3 +41,23 @@ If you ever have problems with git. Maybe something you did or you don't underst
 [https://ohshitgit.com/](https://ohshitgit.com/)
 
 [https://firstaidgit.io/](https://firstaidgit.io/)
+
+### About commit messages ###
+Writing good commit messages is actually hard. Make sure you have a uniformed way of writing them in your team / organization.
+
+#### What tense should git messages be in? ####
+[https://www.danclarke.com/git-tense](https://www.danclarke.com/git-tense) 
+A lot of people prefere imperetive form on the commit messages and here's a discussion on how people reason.
+
+## Useful software ##
+A list of free useful tools. This includes everything from testing to hosting, monitoring and so on.
+[https://freestuff.dev/](https://freestuff.dev/)
+
+### Awesome IDEs ###
+#### Visual studio Code ####
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
+First of Visual Studio Code might be the most popular editor now days. It's a generic IDE that handles language support by plugins. It have a large community behind it making plugins for pretty much anything. Microsoft is also adding plugins and continiously releasing new version.
+
+#### PyCharm ####
+[https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
+One of the most populair python IDEs out there. Also support some front end and have lot's of features.
