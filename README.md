@@ -7,7 +7,7 @@ Most README files are written in Markdown (.md). This is a nice way to make it m
 
 Included in the repo is the file markdown_cheatsheet.md copied from https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md .
 
-## Thins for a junior dev ##
+## Things for a junior dev ##
 ### Or any devs really ###
 https://twitter.com/ClayDowling/status/1375891016453136384
 
@@ -32,7 +32,7 @@ https://medium.com/@marinithiago/monolith-microservices-and-architectural-quanta
 
 ## Testing ##
 ### Charactirization tests vs Unit Tests ###
-https://blog.cleancoder.com/
+https://michaelfeathers.silvrback.com/characterization-testing
 
 ## Git ##
 ### Oh shit moments ###
