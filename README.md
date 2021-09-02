@@ -35,12 +35,28 @@ https://medium.com/@marinithiago/monolith-microservices-and-architectural-quanta
 https://michaelfeathers.silvrback.com/characterization-testing
 
 ## Git ##
+Git is a tool developed by Linus Torvalds (yeah Linux guy). It is the defacto version control system today, but there are alternatives ou there. 
+### Learnign git ###
+[https://www.w3schools.com/git/default.asp](https://www.w3schools.com/git/default.asp)
+
+#### Branching in Git ####
+[https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+Working is a big thing in Git and here is a good guide to how it works.
+
 ### Oh shit moments ###
 If you ever have problems with git. Maybe something you did or you don't understand what's happening. The following links are really good.
 
 [https://ohshitgit.com/](https://ohshitgit.com/)
 
 [https://firstaidgit.io/](https://firstaidgit.io/)
+
+### Git Tools ###
+#### Easier tools ####
+[https://desktop.github.com/](https://desktop.github.com/)
+[https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
+
+#### Advances tools ####
+[https://cli.github.com/](https://cli.github.com/)
 
 ### About commit messages ###
 Writing good commit messages is actually hard. Make sure you have a uniformed way of writing them in your team / organization.
