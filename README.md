@@ -51,9 +51,12 @@ If you ever have problems with git. Maybe something you did or you don't underst
 [https://firstaidgit.io/](https://firstaidgit.io/)
 
 ### Git Tools ###
-#### Easier tools ####
+#### Beginner tools ####
 [https://desktop.github.com/](https://desktop.github.com/)
 [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
+
+#### Intermediat tools ####
+[https://tortoisegit.org/]/https://tortoisegit.org/)
 
 #### Advances tools ####
 [https://cli.github.com/](https://cli.github.com/)
