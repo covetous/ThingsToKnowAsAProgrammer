@@ -34,9 +34,14 @@ https://medium.com/@marinithiago/monolith-microservices-and-architectural-quanta
 ### Charactirization tests vs Unit Tests ###
 https://michaelfeathers.silvrback.com/characterization-testing
 
+### TDD - Test Driven Development ###
+TDD is the process of first writing test, then writing code that makes the test to pass.
+http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
+
 ## Git ##
 Git is a tool developed by Linus Torvalds (yeah Linux guy). It is the defacto version control system today, but there are alternatives ou there. 
 ### Learnign git ###
+TDD is a methodology where you first write a small failing test and then write the code that makes it pass. You then modifie the test to include more require
 [https://www.w3schools.com/git/default.asp](https://www.w3schools.com/git/default.asp)
 
 #### Branching in Git ####
