@@ -7,9 +7,16 @@ Most README files are written in Markdown (.md). This is a nice way to make it m
 
 Included in the repo is the file markdown_cheatsheet.md copied from https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md .
 
+Links to other sections.
+| [Code review](code_review.md) |
+
 ## Things for a junior dev ##
 ### Or any devs really ###
 https://twitter.com/ClayDowling/status/1375891016453136384
+
+### On being a developer, or working at all ###
+Being a developer is not just hacking code, or writing tests, or doing documentation. It's a process where you take responcebility for the everything around you. Do not for a second think that you have to do everything, but you have a responsebility to enable it. That can be anything from moving desks when you need to reorganize your landscape to leading a software architecture meeting as a unior dev. Always do your best from the level you are at. Always remember that to advance to the next level you have to learn and experience. Everyone who is more experienced have gone through the same process so don't be intimidated by them. And this is part of your responsability, to learn and expand within your field. 
+And whatever you do, remember that you can only do your best and if you fail and get blamed for it, they did not help you set up the stage to succeed.
 
 ## Blogs & Books ##
 https://medium.com/@marinithiago/
