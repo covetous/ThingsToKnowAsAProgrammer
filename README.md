@@ -18,7 +18,8 @@ https://twitter.com/ClayDowling/status/1375891016453136384
 Being a developer is not just hacking code, or writing tests, or doing documentation. It's a process where you take responcebility for the everything around you. Do not for a second think that you have to do everything, but you have a responsebility to enable it. That can be anything from moving desks when you need to reorganize your landscape to leading a software architecture meeting as a unior dev. Always do your best from the level you are at. Always remember that to advance to the next level you have to learn and experience. Everyone who is more experienced have gone through the same process so don't be intimidated by them. And this is part of your responsability, to learn and expand within your field. 
 And whatever you do, remember that you can only do your best and if you fail and get blamed for it, they did not help you set up the stage to succeed.
 
-## Blogs & Books ##
+Blogs & Books
+=====
 https://medium.com/@marinithiago/
 
 ### Clean Code and Uncle Bob ###
@@ -30,10 +31,11 @@ Uncle Bob (or Robert C. Martin) is a legend within programming and as much of a 
 (ISBN 978-0132542883) What makes a good, professional coder? This books aims to give the reader some answers to those questions.
 ##### Clean Architecture #####
 (ISBN 9780134494166) The follow up to Clean Code where the reader learns to take a more birds eye view and create architecture insted of just code.
-#### Blog ####
-https://blog.cleancoder.com/
+#### Blogs ####
+[Uncle Bob](https://blog.cleancoder.com/)
 
-## Architecture ##
+Architecture
+====
 ### Microservices vs Monoliths ###
 https://medium.com/@marinithiago/monolith-microservices-and-architectural-quanta-c1327428d652
 
@@ -92,3 +94,7 @@ First of Visual Studio Code might be the most popular editor now days. It's a ge
 #### PyCharm ####
 [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
 One of the most populair python IDEs out there. Also support some front end and have lot's of features.
+
+[Code Reviews](code_reiew.md)
+====
+The benefits of code reviews was absolut in the early 20th centry but as technology advances it have come under question. What actually benefit does it do. As of wrighting this 2021 it is stil considered something that brings benefit to the software quality. But as tools increase in complexity and functionality code review might be a thing of the past.
