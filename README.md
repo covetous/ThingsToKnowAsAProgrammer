@@ -98,3 +98,7 @@ One of the most populair python IDEs out there. Also support some front end and 
 [Code Reviews](code_reiew.md)
 ====
 The benefits of code reviews was absolut in the early 20th centry but as technology advances it have come under question. What actually benefit does it do. As of wrighting this 2021 it is stil considered something that brings benefit to the software quality. But as tools increase in complexity and functionality code review might be a thing of the past.
+
+Misc Links
+=====
+1. Some nice quotes https://codeburst.io/50-quotes-for-better-coding-76bdac3fc234
