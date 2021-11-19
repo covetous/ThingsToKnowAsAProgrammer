@@ -33,6 +33,9 @@ Uncle Bob (or Robert C. Martin) is a legend within programming and as much of a 
 (ISBN 9780134494166) The follow up to Clean Code where the reader learns to take a more birds eye view and create architecture insted of just code.
 #### Blogs ####
 [Uncle Bob](https://blog.cleancoder.com/)
+#### Youtube ####
+[Continuous Delivery](https://www.youtube.com/watch?v=wyABTfR9UTU)
+Talks about CI / CD, mostly. Also talks about some other topics. A bit dry but very knowledgable.
 
 Architecture
 ====
