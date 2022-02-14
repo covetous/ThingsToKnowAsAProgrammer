@@ -20,25 +20,29 @@ And whatever you do, remember that you can only do your best and if you fail and
 
 Blogs & Books
 =====
-https://medium.com/@marinithiago/
-
-### Clean Code and Uncle Bob ###
+## Clean Code and Uncle Bob ##
 Uncle Bob (or Robert C. Martin) is a legend within programming and as much of a must to read that there is. Even if you do not agree with him you should read his books to know what other people are talking about.
-#### Books: ####
-##### Clean Code ##### 
+### Books: ###
+#### Clean Code ####
 (ISBN-13: 978-0132350884) This is his most iconic book. The book explain what makes good code that doesn't smell. The book is in some ways contradictory to what other things you might have learned.
-##### The Clean Coder #####
+#### The Clean Coder ####
 (ISBN 978-0132542883) What makes a good, professional coder? This books aims to give the reader some answers to those questions.
-##### Clean Architecture #####
+#### Clean Architecture ####
 (ISBN 9780134494166) The follow up to Clean Code where the reader learns to take a more birds eye view and create architecture insted of just code.
-#### Blogs ####
-[Uncle Bob](https://blog.cleancoder.com/)
-#### Youtube ####
+## Domain Driven Design Quickly ##
+(ISBN 978-1-4116-0925-9) The most complicated aspect of large software projects is not the implementation, it is the real world domain that the software serves. Domain Driven Design is a vision and approach for dealing with highly complex domains that is based on making the domain itself the main focus of the project, and maintaining a software model that reflects a deep understanding of the domain. The vision was brought to the world by Eric Evans in his book "Domain Driven Design". Eric's work was based on 20 years of widely accepted best practices in the object community, as well as Eric's own insights.  Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD. A special interview with Eric Evans on the state of Domain Driven Design is also included
+
+https://www.infoq.com/minibooks/domain-driven-design-quickly
+## Blogs ##
+- [Uncle Bob](https://blog.cleancoder.com/)
+- https://medium.com/@marinithiago/
+## Youtube ##
 [Continuous Delivery](https://www.youtube.com/watch?v=wyABTfR9UTU)
 Talks about CI / CD, mostly. Also talks about some other topics. A bit dry but very knowledgable.
 
 Architecture
 ====
+## Architecture ##
 ### Microservices vs Monoliths ###
 https://medium.com/@marinithiago/monolith-microservices-and-architectural-quanta-c1327428d652
 
@@ -69,14 +73,14 @@ If you ever have problems with git. Maybe something you did or you don't underst
 
 ### Git Tools ###
 #### Beginner tools ####
-[https://desktop.github.com/](https://desktop.github.com/)
-[https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
+- [https://desktop.github.com/](https://desktop.github.com/)
+- [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 
 #### Intermediat tools ####
-[https://tortoisegit.org/]/https://tortoisegit.org/)
+- [https://tortoisegit.org/](https://tortoisegit.org/)
 
 #### Advances tools ####
-[https://cli.github.com/](https://cli.github.com/)
+- [https://cli.github.com/](https://cli.github.com/)
 
 ### About commit messages ###
 Writing good commit messages is actually hard. Make sure you have a uniformed way of writing them in your team / organization.
